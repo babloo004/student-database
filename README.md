@@ -71,10 +71,6 @@ These are just a few examples to get you started. Explore the database and creat
 
 Contributions to this project are welcome. If you have any suggestions, improvements, or bug fixes, please submit a pull request. Make sure to follow the project's coding conventions and provide a clear description of your changes.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as permitted by the license.
-
-**Note:** Remember to update the license file (`LICENSE`) with the appropriate year and your name or organization details.
 
 Please feel free to customize this README file based on your specific database and requirements. Provide clear instructions, usage examples, and any other relevant information to help users understand and utilize the database effectively.
